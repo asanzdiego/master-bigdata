@@ -10,7 +10,12 @@ lkkhjhlaksjdlaskjd
 
 aslkdjaslkdjaslkdj
 
-lasdasd **asdasd** asd *asdas* asdasd ~asdasd~ dasdasd
+lasdasd **negrita** asd *cursiva* asdasd ~tachado~ dasdasd
+
+```
+codigo fuente de python
+```
+
 
 [web adolfo](https://www.asanzdiego.com/)
 
@@ -31,6 +36,8 @@ lasdasd **asdasd** asd *asdas* asdasd ~asdasd~ dasdasd
 1. textos en lista rdenada
 1. textos en lista rdenada
 1. textos en lista rdenada
+
+
 1. textos en lista rdenada
 1. textos en lista rdenada
 1. textos en lista rdenada
