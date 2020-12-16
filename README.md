@@ -31,12 +31,15 @@ codigo fuente de python
 - textos en lista no ordenada
 
 
+asdasd
+
 1. textos en lista rdenada
 1. textos en lista rdenada
 1. textos en lista rdenada
 1. textos en lista rdenada
 1. textos en lista rdenada
 
+asdasd
 
 1. textos en lista rdenada
 1. textos en lista rdenada
@@ -46,7 +49,8 @@ codigo fuente de python
 
 
 |  asdas |   asd |  asd | a  | qwe  |
-|---|---|---|---|---|
-|   |   |   |   |   |
-| asdas  |   |   |   |   |
-|  asdasd |  asd |   asd |   |   |
+|--------|-------|------|----|------|
+| asdas  |       |      |    |      |
+| asdasd |  asd  |  asd |    |      |
+| asdasd |  asd  |  asd |    |      |
+| asdasd |  asd  |  asd |    |      |
